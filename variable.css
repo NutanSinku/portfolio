@@ -1,0 +1,14 @@
+html,body{
+	margin:0%;
+	box-sizing: border-box;
+	width: 100%
+	height:100%;
+}
+
+
+/*css variables*/
+:root{
+	--primary-color: #BC8F8F;
+	--gradient-color:linear-gradient(to left, #99ff99 43%, #ffcc99 92%)
+	
+}
